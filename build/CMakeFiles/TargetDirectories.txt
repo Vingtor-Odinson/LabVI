@@ -1,0 +1,3 @@
+/home/ramos/Desktop/Faculdade/LabVI/build/CMakeFiles/ProjetoLabVI.dir
+/home/ramos/Desktop/Faculdade/LabVI/build/CMakeFiles/edit_cache.dir
+/home/ramos/Desktop/Faculdade/LabVI/build/CMakeFiles/rebuild_cache.dir

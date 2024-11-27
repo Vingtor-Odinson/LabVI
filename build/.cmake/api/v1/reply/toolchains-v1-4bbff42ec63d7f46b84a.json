@@ -1,0 +1,157 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/ramos/intel/oneapi/vpl/2023.0.0/include",
+						"/home/ramos/intel/oneapi/tbb/2021.8.0/include",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/include",
+						"/home/ramos/intel/oneapi/mkl/2023.0.0/include",
+						"/home/ramos/intel/oneapi/ipp/2021.7.0/include",
+						"/home/ramos/intel/oneapi/ippcp/2021.6.3/include",
+						"/home/ramos/intel/oneapi/dpl/2022.0.0/linux/include",
+						"/home/ramos/intel/oneapi/dpcpp-ct/2023.0.0/include",
+						"/home/ramos/intel/oneapi/dnnl/2023.0.0/cpu_dpcpp_gpu_dpcpp/include",
+						"/home/ramos/intel/oneapi/dev-utilities/2021.8.0/include",
+						"/home/ramos/intel/oneapi/dal/2023.0.0/include",
+						"/home/ramos/intel/oneapi/ccl/2021.8.0/include/cpu_gpu_dpcpp",
+						"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+						"/usr/local/include",
+						"/usr/include/x86_64-linux-gnu",
+						"/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/ramos/intel/oneapi/vpl/2023.0.0/lib",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/libfabric/lib",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/lib",
+						"/home/ramos/intel/oneapi/dnnl/2023.0.0/cpu_dpcpp_gpu_dpcpp/lib",
+						"/home/ramos/intel/oneapi/compiler/2023.0.0/linux/lib",
+						"/usr/lib/gcc/x86_64-linux-gnu/11",
+						"/usr/lib/x86_64-linux-gnu",
+						"/usr/lib",
+						"/lib/x86_64-linux-gnu",
+						"/lib",
+						"/home/ramos/intel/oneapi/tbb/2021.8.0/lib/intel64/gcc4.8",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/lib/release",
+						"/home/ramos/intel/oneapi/mkl/2023.0.0/lib/intel64",
+						"/home/ramos/intel/oneapi/ipp/2021.7.0/lib/intel64",
+						"/home/ramos/intel/oneapi/ippcp/2021.6.3/lib/intel64",
+						"/home/ramos/intel/oneapi/dal/2023.0.0/lib/intel64",
+						"/home/ramos/intel/oneapi/compiler/2023.0.0/linux/compiler/lib/intel64_lin",
+						"/home/ramos/intel/oneapi/ccl/2021.8.0/lib/cpu_gpu_dpcpp"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"gcc",
+						"gcc_s",
+						"c",
+						"gcc",
+						"gcc_s"
+					]
+				},
+				"path" : "/usr/bin/cc",
+				"version" : "11.4.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/ramos/intel/oneapi/vpl/2023.0.0/include",
+						"/home/ramos/intel/oneapi/tbb/2021.8.0/include",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/include",
+						"/home/ramos/intel/oneapi/mkl/2023.0.0/include",
+						"/home/ramos/intel/oneapi/ipp/2021.7.0/include",
+						"/home/ramos/intel/oneapi/ippcp/2021.6.3/include",
+						"/home/ramos/intel/oneapi/dpl/2022.0.0/linux/include",
+						"/home/ramos/intel/oneapi/dpcpp-ct/2023.0.0/include",
+						"/home/ramos/intel/oneapi/dnnl/2023.0.0/cpu_dpcpp_gpu_dpcpp/include",
+						"/home/ramos/intel/oneapi/dev-utilities/2021.8.0/include",
+						"/home/ramos/intel/oneapi/dal/2023.0.0/include",
+						"/home/ramos/intel/oneapi/ccl/2021.8.0/include/cpu_gpu_dpcpp",
+						"/usr/include/c++/11",
+						"/usr/include/x86_64-linux-gnu/c++/11",
+						"/usr/include/c++/11/backward",
+						"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+						"/usr/local/include",
+						"/usr/include/x86_64-linux-gnu",
+						"/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/ramos/intel/oneapi/vpl/2023.0.0/lib",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/libfabric/lib",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/lib",
+						"/home/ramos/intel/oneapi/dnnl/2023.0.0/cpu_dpcpp_gpu_dpcpp/lib",
+						"/home/ramos/intel/oneapi/compiler/2023.0.0/linux/lib",
+						"/usr/lib/gcc/x86_64-linux-gnu/11",
+						"/usr/lib/x86_64-linux-gnu",
+						"/usr/lib",
+						"/lib/x86_64-linux-gnu",
+						"/lib",
+						"/home/ramos/intel/oneapi/tbb/2021.8.0/lib/intel64/gcc4.8",
+						"/home/ramos/intel/oneapi/mpi/2021.8.0/lib/release",
+						"/home/ramos/intel/oneapi/mkl/2023.0.0/lib/intel64",
+						"/home/ramos/intel/oneapi/ipp/2021.7.0/lib/intel64",
+						"/home/ramos/intel/oneapi/ippcp/2021.6.3/lib/intel64",
+						"/home/ramos/intel/oneapi/dal/2023.0.0/lib/intel64",
+						"/home/ramos/intel/oneapi/compiler/2023.0.0/linux/compiler/lib/intel64_lin",
+						"/home/ramos/intel/oneapi/ccl/2021.8.0/lib/cpu_gpu_dpcpp"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"m",
+						"gcc_s",
+						"gcc",
+						"c",
+						"gcc_s",
+						"gcc"
+					]
+				},
+				"path" : "/usr/bin/c++",
+				"version" : "11.4.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

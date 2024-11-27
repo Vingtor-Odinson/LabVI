@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProjetoLabVI.dir/src/controller/controller.cpp.o CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o -o ProjetoLabVI   -L/home/ramos/Desktop/Faculdade/LabVI/src/serial/usr/local/lib  -Wl,-rpath,/home/ramos/Desktop/Faculdade/LabVI/src/serial/usr/local/lib -lserial 

@@ -184,7 +184,7 @@ CMakeFiles/ProjetoLabVI.dir/src/controller/controller.cpp.o: ../src/controller/c
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
   /usr/include/c++/11/bits/fstream.tcc \
   ../src/controller/controller.hpp \
-  ../src/serial/serial.h \
+  ../src/serial/usr/local/include/serial/serial.h \
   /usr/include/c++/11/limits \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_uninitialized.h \
@@ -196,7 +196,7 @@ CMakeFiles/ProjetoLabVI.dir/src/controller/controller.cpp.o: ../src/controller/c
   /usr/include/strings.h \
   /usr/include/c++/11/sstream \
   /usr/include/c++/11/bits/sstream.tcc \
-  ../src/serial/v8stdint.h \
+  ../src/serial/usr/local/include/serial/v8stdint.h \
   /usr/include/c++/11/chrono \
   /usr/include/c++/11/ratio \
   /usr/include/c++/11/ctime \
@@ -382,7 +382,7 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  /tmp/usr/local/include/serial/serial.h \
+  ../src/serial/usr/local/include/serial/serial.h \
   /usr/include/c++/11/limits \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_uninitialized.h \
@@ -394,17 +394,15 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/strings.h \
   /usr/include/c++/11/sstream \
   /usr/include/c++/11/bits/sstream.tcc \
-  /tmp/usr/local/include/serial/v8stdint.h \
+  ../src/serial/usr/local/include/serial/v8stdint.h \
   ../src/controller/controller.hpp
 
-
-/tmp/usr/local/include/serial/serial.h:
 
 ../src/main.cpp:
 
 /usr/include/c++/11/bits/parse_numbers.h:
 
-../src/serial/v8stdint.h:
+../src/serial/usr/local/include/serial/v8stdint.h:
 
 /usr/include/c++/11/sstream:
 
@@ -526,8 +524,6 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/11/bits/functexcept.h:
 
-/tmp/usr/local/include/serial/v8stdint.h:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
@@ -624,6 +620,8 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/11/ext/numeric_traits.h:
 
+../src/serial/usr/local/include/serial/serial.h:
+
 /usr/include/c++/11/ext/type_traits.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
@@ -635,8 +633,6 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/include/c++/11/bits/codecvt.h:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
-
-../src/serial/serial.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 

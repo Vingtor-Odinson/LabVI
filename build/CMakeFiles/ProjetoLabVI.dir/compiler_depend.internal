@@ -185,7 +185,7 @@ CMakeFiles/ProjetoLabVI.dir/src/controller/controller.cpp.o
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h
  /usr/include/c++/11/bits/fstream.tcc
  /home/ramos/Desktop/Faculdade/LabVI/src/controller/controller.hpp
- /home/ramos/Desktop/Faculdade/LabVI/src/serial/serial.h
+ /home/ramos/Desktop/Faculdade/LabVI/src/serial/usr/local/include/serial/serial.h
  /usr/include/c++/11/limits
  /usr/include/c++/11/vector
  /usr/include/c++/11/bits/stl_uninitialized.h
@@ -197,7 +197,7 @@ CMakeFiles/ProjetoLabVI.dir/src/controller/controller.cpp.o
  /usr/include/strings.h
  /usr/include/c++/11/sstream
  /usr/include/c++/11/bits/sstream.tcc
- /home/ramos/Desktop/Faculdade/LabVI/src/serial/v8stdint.h
+ /home/ramos/Desktop/Faculdade/LabVI/src/serial/usr/local/include/serial/v8stdint.h
  /usr/include/c++/11/chrono
  /usr/include/c++/11/ratio
  /usr/include/c++/11/ctime
@@ -384,7 +384,7 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o
  /usr/include/c++/11/bits/ostream.tcc
  /usr/include/c++/11/istream
  /usr/include/c++/11/bits/istream.tcc
- /tmp/usr/local/include/serial/serial.h
+ /home/ramos/Desktop/Faculdade/LabVI/src/serial/usr/local/include/serial/serial.h
  /usr/include/c++/11/limits
  /usr/include/c++/11/vector
  /usr/include/c++/11/bits/stl_uninitialized.h
@@ -396,6 +396,6 @@ CMakeFiles/ProjetoLabVI.dir/src/main.cpp.o
  /usr/include/strings.h
  /usr/include/c++/11/sstream
  /usr/include/c++/11/bits/sstream.tcc
- /tmp/usr/local/include/serial/v8stdint.h
+ /home/ramos/Desktop/Faculdade/LabVI/src/serial/usr/local/include/serial/v8stdint.h
  /home/ramos/Desktop/Faculdade/LabVI/src/controller/controller.hpp
 
